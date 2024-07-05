@@ -1,2 +1,4 @@
 dummy_env/
 .vscode
+*_cache/
+test/__pycache__
