@@ -3,6 +3,7 @@ import requests
 url = "http://httpbin.org/json"
 
 ## comment added from test_branch
+## Added some new comments
 
 r = requests.get(url)
 a = 4
