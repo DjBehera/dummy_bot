@@ -6,7 +6,7 @@ url = "http://httpbin.org/json"
 ## Added some new comments
 ### Added from feature branch
 
-r = requests.get(url,url)
+r = requests.get(url,url,url)
 a = 4
 print("Response code : ",r.status_code)
 print("Response headers : \n", r.headers)
