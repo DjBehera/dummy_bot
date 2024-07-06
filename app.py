@@ -10,7 +10,7 @@ def home():
     """
     Handles the base web traffic
     """
-    return "Hello, World!"
+    return "Hello, World! Updated from Dj"
 
 if __name__ == '__main__':
     app.run(debug=True,port=3000)
