@@ -8,7 +8,10 @@ url = "http://httpbin.org/json"
 
 r = requests.get(url,url,url)
 a = 3
-b = 5
+
+
+c = 90
+d = a * c
 print("Response code : ",r.status_code)
 print("Response headers : \n", r.headers)
 print("Response Content : \n",r.text)
