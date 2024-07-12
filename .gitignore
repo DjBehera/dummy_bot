@@ -3,4 +3,3 @@ dummy_env/
 *_cache/
 test/__pycache__
 .deployment
-.gitignore
