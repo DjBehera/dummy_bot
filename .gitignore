@@ -2,3 +2,5 @@ dummy_env/
 .vscode
 *_cache/
 test/__pycache__
+.deployment
+.gitignore
